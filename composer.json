@@ -1,0 +1,20 @@
+{
+    "name": "simon/kenshoo_react_php",
+    "description": "home test",
+    "authors": [
+        {
+            "name": "Simon Mor",
+            "email": "simomor@gmail.com"
+        }
+    ],
+    "require": {
+        "react/socket": "^1.6.0",
+        "curl/curl": "^2.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "Root\\": "/",
+            "Kenshoo\\": "src/"
+        }
+    }
+}

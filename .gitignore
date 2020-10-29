@@ -1,0 +1,6 @@
+vendor
+/vendor/*
+.idea
+.idea/*
+task.md
+composer.lock
